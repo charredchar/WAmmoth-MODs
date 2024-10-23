@@ -1,6 +1,6 @@
 Mammoth-3D had a decent (one of the only) CPAP mufflers for Voron printers until they got upset over Facebook drama and deleted everything Voron related while at the same time putting them up for sale.
 I view this as a childish response. Annd since I actually use (and modify) the muffler I decided to fork while the old commit was still available to preserve it.
-I will also fork this repo for my own mods.
+I will also add to this repo my own mods.
 
 
 ### All Mammoth-3D project are (at the time of fork) licensed as
